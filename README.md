@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Bradesco Bank<br>🤝 I’m looking for help with Cybersecurity Solutions<br>🌱 I’m currently learning Cybersecurity<br>⚡ Fun fact is that I love to learn
+🔭 I’m currently working on Bradesco Bank<br>🤝 I’m looking for help with General Programming:( <br>🌱 I’m currently learning Cybersecurity<br>⚡ Fun fact is that I love to learn
 
 
 # 💻 Tech Stack:
