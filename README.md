@@ -1,4 +1,4 @@
-# 💫 Hello World, I'm Alexandre. I love to learn new programming languages and IT Universe things:
+# 💫 Hello World, I'm Alexandre:
 🔭 I’m currently working on Bradesco Bank as Third-party Information Security Assistent Analyst <br>🤝 I’m looking for help with General Programming:( <br>🌱 I’m currently learning Cybersecurity<br>⚡ Fun fact is that I love to learn
 
 
