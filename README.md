@@ -3,7 +3,7 @@
 
 # 💫 Hello, World!!
 *My name is Alexandre, I'm graduated on Cybersecurity on FIAP here in São Paulo, Brasil. Enjoy my little programing codes, that is not too many. :)* <br>
-🔭 I’m currently working on Bradesco Bank as Third-party Information Security Analyst <br>🤝 Let`s get better together =) <br>🌱 I’m currently learning Cybersecurity<br>
+🔭 I’m currently working on Bradesco Bank as Third-party Information Security Analyst <br>🤝 Let's get better together =) <br>🌱 I’m currently learning Cybersecurity<br>
 
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFpcjl5eGVkZW9jcGhyNXNqZ3ZzY3ptNjh0a3c0MTJneXd1czJ1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KmHueA88mFABT9GkkR/giphy.gif" alt="Texto alternativo">
 
